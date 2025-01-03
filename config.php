@@ -17,7 +17,7 @@ return [
     'siteSections' => [
         'home' => [
             'descriptions' => [
-                'Hi, there!',
+                'Hi, there! 👋🏽',
                 /**
                  * You must have 1 value that has class "js-typed-important".
                  *
